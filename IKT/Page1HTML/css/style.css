@@ -125,3 +125,9 @@ header.slideout{
 nav.navdownslide{
     animation:navdownslide 1.5s ease;
 }
+img{
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+    box-shadow: 3px 3px rgb(164, 199, 99);
+}
