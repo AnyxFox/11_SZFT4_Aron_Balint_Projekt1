@@ -131,3 +131,6 @@ img{
     border-radius: 20px;
     box-shadow: 3px 3px rgb(164, 199, 99);
 }
+h2{
+    border-top: 2px solid rgba(68, 122, 32, 0.644);
+}
